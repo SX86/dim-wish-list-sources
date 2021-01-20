@@ -1,1 +1,6 @@
+title:This is a compiled collection SX86's favorite crucible rolls.
+description:forked from 48klocs
+
+title:@SX86 PvP
+
 dimwishlist:item=1506719573&perks=3661387068,3177308360,1359896290,3425386926
